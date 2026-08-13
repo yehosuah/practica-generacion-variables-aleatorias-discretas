@@ -1,0 +1,16 @@
+día,número_aleatorio,demanda,inventario,ventas,sobrante,ventas_perdidas,resultado
+1,0.20499324009694697,2,3,2,1,0,Sobrante de 1
+2,0.7195269751346263,3,3,3,0,0,Inventario exacto
+3,0.74187943785933,3,3,3,0,0,Inventario exacto
+4,0.9095578317484734,4,3,3,0,1,Faltante de 1
+5,0.5346739062197184,3,3,3,0,0,Inventario exacto
+6,0.7438367971611304,3,3,3,0,0,Inventario exacto
+7,0.13182323633774828,1,3,1,2,0,Sobrante de 2
+8,0.9096671434067177,4,3,3,0,1,Faltante de 1
+9,0.26731456602369474,2,3,2,1,0,Sobrante de 1
+10,0.5286164646926529,3,3,3,0,0,Inventario exacto
+11,0.8514441251662507,4,3,3,0,1,Faltante de 1
+12,0.586097278428415,3,3,3,0,0,Inventario exacto
+13,0.59297047939722,3,3,3,0,0,Inventario exacto
+14,0.9743599349366182,5,3,3,0,2,Faltante de 2
+15,0.7025284546482948,3,3,3,0,0,Inventario exacto

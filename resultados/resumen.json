@@ -1,0 +1,138 @@
+{
+  "ejercicio_1": {
+    "días": 15,
+    "inventario_diario": 3,
+    "demanda_total": 46,
+    "ventas_totales": 41,
+    "ventas_perdidas": 5,
+    "sobrante_total": 4,
+    "días_con_faltante": 4,
+    "días_con_sobrante": 3,
+    "demanda_media": 3.066666666666667,
+    "tasa_llenado": 0.8913043478260869,
+    "utilización_inventario": 0.9111111111111111
+  },
+  "ejercicio_3": {
+    "repeticiones": 100000,
+    "media_simulada": 0.99986,
+    "error_estándar_media": 0.003165991162179767,
+    "IC95_media_inferior": 0.9936547713467555,
+    "IC95_media_superior": 1.0060652286532443,
+    "varianza_simulada": 1.002350003900039,
+    "media_exacta": 1.0,
+    "varianza_exacta": 1.0
+  },
+  "ejercicio_4": {
+    "secuencia": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    "números_aleatorios_usados": 6,
+    "uniformes": [
+      0.48538507442584533,
+      0.619166108705688,
+      0.2559418497462608,
+      0.16942219378444612,
+      0.8118971707844361,
+      0.2043348011609344
+    ],
+    "valor_esperado_de_uniformes": 5.799999999999999
+  },
+  "ejercicio_5": {
+    "repeticiones": 200000,
+    "media_simulada": 61.25661,
+    "error_estándar": 0.08041982151980918,
+    "IC95_inferior": 61.09899004617804,
+    "IC95_superior": 61.414229953821966,
+    "media_exacta": 61.21738476395719,
+    "desviación_estándar_simulada": 35.96483753133876
+  },
+  "ejercicio_9": [
+    {
+      "integral": "3",
+      "estimación_MC": 6.313834061125097,
+      "error_estándar": 0.0046594627005700495,
+      "IC95_inferior": 6.304701682044672,
+      "IC95_superior": 6.322966440205522,
+      "valor_exacto": 6.316563839027678,
+      "error_absoluto": 0.0027297779025809987
+    },
+    {
+      "integral": "4",
+      "estimación_MC": 0.5885543335576935,
+      "error_estándar": 0.0004692056349493562,
+      "IC95_inferior": 0.5876347074118495,
+      "IC95_superior": 0.5894739597035374,
+      "valor_exacto": 0.5890486225480862,
+      "error_absoluto": 0.0004942889903927217
+    },
+    {
+      "integral": "5",
+      "estimación_MC": 93.2525939793328,
+      "error_estándar": 0.3448925562480508,
+      "IC95_inferior": 92.57661699055066,
+      "IC95_superior": 93.92857096811494,
+      "valor_exacto": 93.16275329244198,
+      "error_absoluto": 0.08984068689082392
+    },
+    {
+      "integral": "6",
+      "estimación_MC": 0.4994083831437325,
+      "error_estándar": 0.00047537449497805315,
+      "IC95_inferior": 0.49847666625440656,
+      "IC95_superior": 0.5003401000330584,
+      "valor_exacto": 0.5,
+      "error_absoluto": 0.0005916168562675184
+    },
+    {
+      "integral": "7",
+      "estimación_MC": 1.7716815473511196,
+      "error_estándar": 0.0018870392589794816,
+      "IC95_inferior": 1.7679830183661067,
+      "IC95_superior": 1.7753800763361325,
+      "valor_exacto": 1.7724538509055159,
+      "error_absoluto": 0.0007723035543962808
+    },
+    {
+      "integral": "8",
+      "estimación_MC": 4.908455957770289,
+      "error_estándar": 0.008427558787857354,
+      "IC95_inferior": 4.891938246068494,
+      "IC95_superior": 4.924973669472084,
+      "valor_exacto": 4.899158851087023,
+      "error_absoluto": 0.009297106683265888
+    },
+    {
+      "integral": "9",
+      "estimación_MC": 0.500016,
+      "error_estándar": 0.0007071074879323503,
+      "IC95_inferior": 0.498630094790454,
+      "IC95_superior": 0.501401905209546,
+      "valor_exacto": 0.5,
+      "error_absoluto": 1.6000000000016e-05
+    }
+  ]
+}
